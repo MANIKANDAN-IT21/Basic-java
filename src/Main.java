@@ -39,11 +39,11 @@ class Main{
 
 //        int[] mani; // declaration the array
 //        mani=new int[5];// initialization of the array and new keyword is created the object in heap memory
-        String[] mani=new String[4];
-        mani[2]="manikandan";
-        mani[3]="kandan";
-        mani[2]="manikamaraj";
-        System.out.println(mani[10]);
+//        String[] mani=new String[4];
+//        mani[2]="manikandan";
+//        mani[3]="kandan";
+//        mani[2]="manikamaraj";
+//        System.out.println(mani[10]);
 
 
 
