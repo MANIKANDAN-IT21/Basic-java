@@ -1,0 +1,2 @@
+public class array {
+}
