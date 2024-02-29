@@ -6,7 +6,6 @@ import java.util.*;
         int[] mani= new int[5];
         for (int i=0;i < mani.length;i++);
          {
-             mani[i]=input.nextInt();
 
          }
      }
